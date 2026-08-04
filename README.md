@@ -42,5 +42,3 @@ This project is an interactive Microsoft Excel dashboard designed to analyze stu
 - ##Author
 - Ansari Ajmal Gaus Mohammed
 
-## Author
-Ansari Ajmal Gaus Mohammed
