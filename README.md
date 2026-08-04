@@ -40,5 +40,5 @@ This project is an interactive Microsoft Excel dashboard designed to analyze stu
 - Interactive Data Filtering
 
 ##Author
-Ansari Ajmal Gaus Mohammed
+-Ansari Ajmal Gaus Mohammed
 
