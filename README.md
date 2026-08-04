@@ -3,6 +3,10 @@
 ## Overview
 This project is an interactive Microsoft Excel dashboard designed to analyze student performance using formulas, PivotTables, PivotCharts, slicers, and conditional formatting.
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.jpg)
+
 ## Features
 - Student marks management
 - Automatic Total and Percentage calculation
