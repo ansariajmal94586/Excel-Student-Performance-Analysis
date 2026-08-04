@@ -5,7 +5,7 @@ This project is an interactive Microsoft Excel dashboard designed to analyze stu
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.jpg)
+![Dashboard Preview](Dashboard_Preview.jpeg)
 
 ## Features
 - Student marks management
